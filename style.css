@@ -1,0 +1,133 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  /* Define a fonte primária como Dosis, e a secundária como sans-serif */
+  font-family: 'Open Sans', sans-serif;
+  /* Reescreve a fonte primária como Open Sans, e a secundária como sans-serif */
+  width: 1024px;
+  /* Define a largura do corpo */
+  height: 726px;
+  /* Define a altura do corpo */
+  text-align: center;
+  /* Alinha o texto ao centro */
+  display: flex;
+  /* Define o modelo de layout como flexível */
+  flex-direction: column;
+  /* Define a direção do layout flexível como coluna */
+  align-items: center;
+  /* Alinha os itens ao centro no eixo transversal */
+  justify-content: center;
+  /* Alinha os itens ao centro no eixo principal */
+  box-sizing: border-box;
+  /* Define o modelo de caixa para incluir padding e border dentro da largura e altura especificadas */
+  margin: 64px auto;
+  /* Define a margem externa, centralizando o corpo horizontalmente */
+}
+
+main {
+  background-color: #fff;
+  /* Define a cor de fundo da seção principal como branca */
+}
+
+main {
+  margin-bottom: 64px;
+  /* Define a margem inferior da seção principal */
+}
+
+main img {
+  margin-bottom: 32px;
+  /* Define a margem inferior da imagem na seção principal */
+}
+
+main h1 {
+  color: #3F3D56;
+  /* Define a cor do texto do título principal */
+  font-family: 'Dosis';
+  /* Define a fonte do título principal como Dosis */
+  font-size: 32px;
+  /* Define o tamanho da fonte do título principal */
+  font-weight: 500;
+  /* Define a espessura da fonte do título principal */
+  font-style: normal;
+  /* Define o estilo da fonte do título principal como normal */
+  line-height: normal;
+  /* Define a altura da linha do título principal como normal */
+  margin-bottom: 16px;
+  /* Define a margem inferior do título principal */
+}
+
+main p {
+  color: #828282;
+  /* Define a cor do texto do parágrafo na seção principal */
+  width: 540px;
+  /* Define a largura do parágrafo na seção principal */
+  font-family: 'Open Sans';
+  /* Define a fonte do parágrafo na seção principal como Open Sans */
+  font-size: 15px;
+  /* Define o tamanho da fonte do parágrafo na seção principal */
+  font-style: normal;
+  /* Define o estilo da fonte do parágrafo na seção principal como normal */
+  font-weight: 400;
+  /* Define a espessura da fonte do parágrafo na seção principal */
+  line-height: 22px;
+  /* Define a altura da linha do parágrafo na seção principal */
+  margin: 0 auto;
+  /* Define a margem do parágrafo na seção principal, centralizando-o horizontalmente */
+}
+
+.pacote,
+.preco {
+  color: #3F3D56;
+  /* Define a cor do texto para as classes pacote e preco */
+}
+
+span {
+  color: #EE24FF;
+  /* Define a cor do texto para elementos span */
+  font-family: 'Dosis';
+  /* Define a fonte para elementos span como Dosis */
+  font-size: 32px;
+  /* Define o tamanho da fonte para elementos span */
+  font-style: normal;
+  /* Define o estilo da fonte para elementos span como normal */
+  font-weight: 700;
+  /* Define a espessura da fonte para elementos span */
+  line-height: normal;
+  /* Define a altura da linha para elementos span como normal */
+}
+
+.line {
+  margin-bottom: 16px;
+  /* Define a margem inferior para elementos com a classe line */
+}
+
+.links a {
+  text-decoration: none;
+  /* Remove a decoração do texto para links dentro do container links */
+  color: #3F3D56;
+  /* Define a cor do texto para links dentro do container links */
+  font-size: 15px;
+  /* Define o tamanho da fonte para links dentro do container links */
+  font-style: normal;
+  /* Define o estilo da fonte para links dentro do container links como normal */
+  font-weight: 700;
+  /* Define a espessura da fonte para links dentro do container links */
+  line-height: 147.682%;
+  /* Define a altura da linha para links dentro do container links */
+}
+
+.links {
+  margin-bottom: 40.83px;
+  /* Define a margem inferior para o container links */
+}
+
+.links a+a {
+  margin-left: 42px;
+  /* Define a margem esquerda para links adjacentes dentro do container links */
+}
+
+.footer img {
+  margin-bottom: 0;
+  /* Define a margem inferior para imagens dentro do container footer */
+  height: 104px;
+  /* Define a altura para imagens dentro do container footer */
+}
