@@ -27,7 +27,7 @@ Neste desafio, você deverá recriar uma aplicação a partir de um layout pront
 
 ## Tecnologias Utilizadas 💻
 
-| ![html5](https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/main/html5-original-wordmark%20(1).png) | ![css](https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/main/css3-original-wordmark.png) |
+| <img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/7a3d5d598367eb95727e0a053587a50bdbff3847/html5.svg" width="50" height="50"> | <img src="https://raw.githubusercontent.com/glauccoslima/servidor_estaticos/7a3d5d598367eb95727e0a053587a50bdbff3847/css3.svg" width="50" height="50"> |
 |:---:|:---:|
 
 ## Como Clonar o Projeto
